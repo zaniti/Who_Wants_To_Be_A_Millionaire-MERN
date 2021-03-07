@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://evolu-tif.com/wp-content/uploads/2017/09/grey-background-wallpaper-23.jpg');
+}
